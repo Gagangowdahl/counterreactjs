@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    -webkit-font-smoothing: auto;
+    -moz-font-smoothing: auto;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: auto;
+    text-rendering: optimizeLegibility;
+    font-smooth: always;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+      background:#000;
+      height:100vh;
+      display:flex:
+      justify-content:center;
+      align-items:center;
+      text-align:center;
+      color:white;
+      
+  }
+  *{
+      padding:0;
+      margin:0;
+      box-sizing:border-box;
+  }
+  .container{
+      font-size:6rem;
+  }
+  .increment{
+   font-size:40px;
+      width:30px;
+      height:40px;
+      color:grey;
+      background-color:pink;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
